@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+我是谢林煌，现就读于福州大学，预计于2022年毕业  
+我会C、C++还有一些python。（感觉好少，愧为福大学生，但我会更加努力的）  
+自我介绍困难症患者，在梦想成为大佬的路上不断努力，虽然看不到终点，还希望能有大佬带带我呀！递茶.jpg  
+我的邮箱是 1156689920@qq.com，欢迎来交朋友呀
 
 <!--
 **robinxlh/robinxlh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
