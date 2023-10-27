@@ -1,9 +1,7 @@
 ### Hi 👋
 我是xlh，现就读于XMU
 本科就读于FZU，于2022年毕业  
-我会C、C++还有一些python。（感觉好少，愧为FZU学生，但我会更加努力的）  
-自我介绍困难症患者，在梦想成为大佬的路上不断努力，虽然看不到终点，还希望能有大佬不嫌弃带带我呀！递茶.jpg  
-我的邮箱是 1156689920@qq.com，欢迎来交朋友呀
+
 
 <!--
 **robinxlh/robinxlh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
